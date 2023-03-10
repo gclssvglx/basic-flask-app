@@ -1,4 +1,8 @@
-# Python template
+# Flask app
+
+```bash
+$ flask --app hello run
+```
 
 An opinionated Python template that comes pre-configured with [`coverage`](https://pypi.org/project/coverage/), [`pylint`](https://pypi.org/project/pylint/) and [`autopep8`](https://pypi.org/project/autopep8/). It also has a simple Python file and test to get you started.
 
